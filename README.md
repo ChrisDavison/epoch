@@ -7,7 +7,7 @@ Convert seconds since epoch to readable date
 This is a very simple utility. 
 
 - Required argument `EPOCH` -- seconds since unix epoch (`1970-01-01 00:00:00`).
-- Optional argument `-f|--foramt <FMT>` is the time format string for output, default `"%Y-%m-%d %H:%M:%S"`
+- Optional argument `-f|--format <FMT>` is the time format string for output, default `"%Y-%m-%d %H:%M:%S"`
 
 ```
 epoch
